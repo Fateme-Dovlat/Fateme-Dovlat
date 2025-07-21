@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fateme</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
+<img align="right" alt="ala" width="400" src="Coding woman.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fateme-dovlat&label=Profile%20views&color=0e75b6&style=flat" alt="fateme-dovlat" /> </p>
 
 - 🔭 I’m currently working on [Python](https://github.com/Fateme-Dovlat/Game_Tkinter)
